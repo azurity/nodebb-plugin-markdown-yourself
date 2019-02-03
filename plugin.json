@@ -1,0 +1,10 @@
+{
+    "id": "nodebb-plugin-markdown-yourself",
+    "library": "lib.js",
+    "hooks": [
+        {
+            "hook": "action:markdown.updateParserRules",
+            "method": "anchor"
+        }
+    ]
+}

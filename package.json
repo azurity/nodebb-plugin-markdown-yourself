@@ -1,0 +1,18 @@
+{
+  "name": "nodebb-plugin-markdown-yourself",
+  "version": "1.0.0",
+  "description": "config markdown yourself",
+  "main": "lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "azurity",
+    "email": "784227594@qq.com"
+  },
+  "license": "MIT",
+  "nbbpm": {
+    "compatibility": "^1.11.0"
+  }
+}
