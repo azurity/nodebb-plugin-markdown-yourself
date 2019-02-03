@@ -5,6 +5,9 @@
   "main": "lib.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },"repository": {
+    "type": "git",
+    "url": "https://github.com/azurity/nodebb-plugin-markdown-yourself.git"
   },
   "keywords": [],
   "author": {
@@ -12,6 +15,7 @@
     "email": "784227594@qq.com"
   },
   "license": "MIT",
+  "homepage": "https://github.com/azurity/nodebb-plugin-markdown-yourself",
   "nbbpm": {
     "compatibility": "^1.11.0"
   }
